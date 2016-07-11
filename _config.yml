@@ -1,0 +1,14 @@
+layout_spectrum: 0.8341737024020404
+typography_spectrum: 0.24357510032132268
+color:
+  brandStrength: 0.6305667320266366
+  lightness: 0.9592135734856129
+  saturation: 0.7884924665559083
+  rhythmicContrast: 0.6063654245808721
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+name: myaitestsite
